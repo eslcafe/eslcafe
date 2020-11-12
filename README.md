@@ -1,4 +1,4 @@
-### Hi there 👋
+### Life on ESL cafe, a pathway to success
 
 <!--
 **eslcafe/eslcafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
